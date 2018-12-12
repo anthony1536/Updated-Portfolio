@@ -1,0 +1,57 @@
+#img {
+    float: left;
+    padding:10px;
+}
+
+.jumbotron{
+    margin-top:50px;
+    width:90%;
+    margin-left:10px;
+}
+
+html {
+    background:black;
+}
+
+body {
+    background: gray;
+}
+
+
+
+
+
+
+
+.input-group {
+    margin-left: 20px;
+    margin-top: 50px;
+    width:70%;
+}
+
+#msg {
+    height: 200px;
+}
+
+.ctr {
+    margin-left: 110px;
+    margin-right: 40px;
+    margin-top: 75px;
+}
+
+
+
+
+
+
+.cont {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);

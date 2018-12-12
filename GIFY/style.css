@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: salmon; 
+    
+}
+
+.btn, .btn-primary {
+    text-align: center
+}
+
+.text-center {
+    font-size: 50px;
+    color: black;
+    border: gray;
+}

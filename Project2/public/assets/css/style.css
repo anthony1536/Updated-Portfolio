@@ -1,0 +1,172 @@
+
+
+html{
+   background-image:url("https://avweather.net/wp-content/uploads/2017/02/Storm-Clouds-Over-Wheat-alt-1800x900.jpg");
+   background-size: 100%;
+   
+}
+html, body{
+      width: 100%;
+      height: 100%;
+      margin: 0%;
+      padding: 0;
+      max-width: 100%;
+      overflow-x: hidden;
+      overflow:hidden;
+    }
+
+
+    #map-canvas {
+      border-radius: 25px;
+      width: 50%;
+      height: 50%;
+      margin: 5%;
+      bottom: 5%;
+      position:sticky;
+      bottom:120px;
+      
+    }
+.gm-style-iw {
+      text-align: center;
+    }
+ 
+  .container {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+
+.container {
+    padding: 2px 16px;
+  }
+
+  /* CARDS*/
+
+  .card { 
+    margin: 1rem;
+    border: 1px solid gray;
+  }
+  
+
+  #cards{
+    border-radius: 25px;
+    background-color:aliceblue;
+        float: right;
+        width:35%;
+        height:25%;
+        margin-right: 5%;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+
+  }
+  #cards3{
+    border-radius: 25px;
+    background-color:aliceblue;
+    float: right;
+    position:absolute;
+    top:80%;
+    left:5%;
+    width:50%;
+    height:15%;
+    margin-right: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+
+  }
+
+  #cards2{
+    border-radius: 25px;
+    background-color:aliceblue;
+    float: right;
+    position:absolute;
+    top:60%;
+    left:60%;
+    width:35%;
+    height:25%;
+    margin-right: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+
+  }
+
+  /* Animations / CSS fun */
+
+  #cards:hover{
+    background-color: lightblue;
+  }
+
+  #cards2:hover{
+    background-color: lightblue;
+  }
+
+  #cards3:hover{
+    background-color: lightblue;
+  }
+
+  .slidein {   
+    color:darkred;
+    animation-duration: 20s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction: infinite;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left:100%;
+      width:300%
+      
+    }
+    
+    to {
+      margin-left:0%;
+      width:30%;
+    }
+  }
+
+
+  /* Notes */
+
+#notes{
+  text-align: center;
+  color: black;
+  position: relative;
+  left:590px;
+  top:10px;
+}
+
+#btns1{
+    position:relative;
+    right:30%;
+}
+
+#name{
+  position: relative;
+  left:900px;
+}
+
+#btns1{
+  position: relative;
+  left:815px;
+  top:40px;
+}
+
+.midalign{
+  text-align:center;
+
+}
+
+.clock {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: black;
+  font-size: 40px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+
+
+}

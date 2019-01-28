@@ -1,0 +1,252 @@
+
+
+
+COMMAND RUN: undefined
+USER INPUT: undefined
+
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: J
+
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Adam
+
+
+
+
+COMMAND RUN: spotify-this-song
+USER INPUT: Rihanna
+
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+----------
+----------      TITLE:      LOYALTY. FEAT. RIHANNA.
+----------      ARTIST:     Kendrick Lamar, Rihanna
+----------      ALBUM:      DAMN.
+----------      PREVIEW:    Preview Not Available
+----------
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+
+
+
+COMMAND RUN: movie-this
+USER INPUT: Scare
+
+|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|
+*****
+*****      TITLE:          Let's Scare Jessica to Death
+*****      YEAR:           1971
+*****      IMDB RATING:    6.5
+*****      ROTTEN RATING:  29%
+*****      COUNTRY:        USA
+*****      LANGUAGE:       English
+*****      PLOT:           A recently institutionalized woman has bizarre experiences after moving into a supposedly haunted country farmhouse and fears she may be losing her sanity once again.
+*****      ACTORS:         Zohra Lampert, Barton Heyman, Kevin O'Connor, Gretchen Corbett
+*****
+|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Rihanna
+
+
+
+
+COMMAND RUN: Rihanna
+USER INPUT: undefined
+
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Rihanna
+
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Rihanna
+
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Drake
+
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Drake
+
+
+
+
+COMMAND RUN: spotify-this-song
+USER INPUT: NonStop
+
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+----------
+----------      TITLE:      Nonstop
+----------      ARTIST:     Drake
+----------      ALBUM:      Scorpion
+----------      PREVIEW:    Preview Not Available
+----------
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+
+
+
+COMMAND RUN: movie-this
+USER INPUT: ScaryMovie
+
+
+
+
+COMMAND RUN: do-what-it-says
+USER INPUT: I
+
+
+
+
+COMMAND RUN: spotify-this-song
+USER INPUT: "I Want it That Way"
+
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+----------
+----------      TITLE:      I Want It That Way
+----------      ARTIST:     Backstreet Boys
+----------      ALBUM:      The Hits--Chapter One
+----------      PREVIEW:    https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24c2a7b28b4740d59d85cc60969c114e
+----------
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+
+
+
+COMMAND RUN: movie-this
+USER INPUT: Bird
+
+|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|
+*****
+*****      TITLE:          Bird
+*****      YEAR:           1988
+*****      IMDB RATING:    7.2
+*****      ROTTEN RATING:  78%
+*****      COUNTRY:        USA
+*****      LANGUAGE:       English
+*****      PLOT:           The troubled life and career of the jazz musician, Charlie "Bird" Parker.
+*****      ACTORS:         Forest Whitaker, Diane Venora, Michael Zelniker, Samuel E. Wright
+*****
+|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|
+
+
+
+COMMAND RUN: spotify-this-song
+USER INPUT: Nonstop
+
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+----------
+----------      TITLE:      Nonstop
+----------      ARTIST:     Drake
+----------      ALBUM:      Scorpion
+----------      PREVIEW:    Preview Not Available
+----------
+*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*-_-*
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Rihanna
+
+
+
+
+COMMAND RUN: undefined
+USER INPUT: undefined
+
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: drake
+
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      The Depot
+----------      LOCATION:   Salt Lake City, United States
+----------      DATE:       01/26/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/08/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/13/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/15/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/16/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+
+
+
+COMMAND RUN: concert-this
+USER INPUT: Drake
+
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      The Depot
+----------      LOCATION:   Salt Lake City, United States
+----------      DATE:       01/26/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/08/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/13/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/15/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
+----------
+----------      VENUE:      Accorhotels Arena
+----------      LOCATION:   Paris, France
+----------      DATE:       03/16/2019
+----------
+^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^-=-v-=-^
